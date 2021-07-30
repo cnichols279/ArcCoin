@@ -1,4 +1,4 @@
-# ArcCoin
+# ArcCoin (ARCC)
 
 ArcCoin is a deflationary token deployed on the Binance Smart Chain under contract [0x35cb1d87d64b3045c0a0fb49e6ac4ae1f9ad611e](https://bscscan.com/token/0x35cb1d87d64b3045c0a0fb49e6ac4ae1f9ad611e).
 
